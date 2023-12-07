@@ -1,4 +1,4 @@
-#Vue Router - Movie list Application with Vue Router 
+# Vue Router - Movie list Application with Vue Router 
 [![version][version-badge]][changelog] [![license][license-badge]][license]
 
 > simple project to show how you can use vue router to build an application
